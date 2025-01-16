@@ -79,27 +79,14 @@ Thank you for your contribution!
 
 # Detailed LoRA Description
 
-## `flux-dev.safetensors`
+## `Whatsapp-freemoji.safetensors`
 
 **Model Finetuned**: Flux.1 Dev
-**Finished Finetuning**: December 25, 2024
-**Finetuned By**: Evan Zhou ([@evanzhoudev](https://github.com/evanzhoudev))
-**Finetuned On**: M4 Max MacBook Pro (64GB Unified Memory, 40 core GPU)
+**Finished Finetuning**: January 15, 2025
+**Finetuned By**: Henil Gajjar ([@henil08](https://github.com/Henil-08))
+**Finetuned On**: M4 Pro MacBook Pro (24GB Unified Memory, 20 core GPU)
 **Finetuned With**: [SimpleTuner](https://github.com/bghira/SimpleTuner)
-**Finetuning Time**: ~10 hours
+**Finetuning Time**: ~17 hours
 **Finetuning Steps**: 10,000
 **Image Resolution**: 160x160
-**Emoji Dataset**: All Apple Emojis as of December 25, 2024, with skin tone variants pruned to reduce training time.
-
-## `diverse-emoji.safetensors`
-
-**Model Finetuned**: Flux.1 Dev
-**Finished Finetuning**: December 31, 2024
-**Finetuned By**: Julius ([@caspersimon](https://github.com/caspersimon))
-**Finetuned On**: M4 Max MacBook Pro (128GB Unified Memory, 40 core GPU)
-**Finetuned With**: [SimpleTuner](https://github.com/bghira/SimpleTuner)
-**Finetuning Time**: ~20 hours
-**Finetuning Steps**: 20,000
-**Image Resolution**: 160x160
-**Emoji Dataset**: All Apple Emoji as of December 30, 2024.
-**Huggingface Link**: [caspersimon/Diverse-Emoji](https://huggingface.co/caspersimon/Diverse-Emoji)
+**Emoji Dataset**: All WhatsApp Emojis as of January 15, 2024, with skin tone variants filtered to reduce training time.
